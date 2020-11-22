@@ -2,4 +2,4 @@ flask
 flask-login
 PyYAML
 WTForms
-gunicornpyth
+gunicorn
