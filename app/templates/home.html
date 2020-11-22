@@ -1,0 +1,54 @@
+{% extends "hero.html" %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <form class="md-form" method=post enctype=multipart/form-data action='/upload'>
+        <div class="file-field">
+          <label class="btn btn-primary btn-sm float-left rounded-left" for="upload-file">
+            <span>Choose file</span>
+            <input id="upload-file" class="d-none" type="file" name=file accept=".json,.yaml" onchange="form.submit()">
+          </label>
+        </div>
+        <div class="submit" style="padding-top:20px">
+        </div>
+    </form>
+  </div>
+  
+  {% if current_user.sources %}
+  <form action="/dashboard" method="get">
+    {% for i in range(0, current_user.sources|length, 3) %}
+    <div class="row" style="padding: 20px 0px;">
+        {% for source in current_user.sources[i:i+3] %}
+        <div class="col-sm">
+          <input class="source-checkbox d-none" type="checkbox" value={{source.id}} name="sources" id="source-{{source.id}}"/>
+          <label class="source card"  for="source-{{source.id}}">
+            <div class="card-header" style="padding: 12px 12px;">
+              <div class="d-flex justify-content-end align-items-center">
+                <a class="bg-danger rounded d-flex text-white" href="/source/delete?source_id={{source.id}}" style="padding:6px; margin:0px">
+                  <i class="far fa-trash-alt"></i>
+                </a>
+              </div>
+            </div>
+              <div class="card-body">
+                <h3 class="text-dark text-break text-center" >{{ source.name }}</h3>
+              </div>
+          </label>
+        </div>
+        {% endfor %}
+    </div>
+    {% endfor %}
+    <input class="btn btn-primary mx-auto d-none" id="source-dashboard-submit"  type="submit" value="">
+  </form>
+  {% endif %}
+    
+  {% if current_user.sources %}
+  {% for source in current_user.sources %}
+  <form action="/source" method="delete">
+    <input id="delete-{{source.id}}" type="hidden", name="source_id" value={{source.id}}>
+  </form>
+  {% endfor %}
+  {% endif %}
+
+</div>
+{% endblock %}

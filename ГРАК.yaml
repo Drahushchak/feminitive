@@ -1,0 +1,2486 @@
+Авторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Авторка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Авторки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Авторці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Авторку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Авторкою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Авторці
+      suffix: ц
+    vocative:
+      flexion: о
+      spelling: Авторко
+      suffix: к
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Авторки
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Авторками
+      suffix: к
+Абонентка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Абонентка 
+      suffix: к
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Абоненток
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Абоненток
+      suffix: к
+Автомобілістка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Автомобілістка 
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Автомобілістку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Автомобіліссткою
+      suffix: к
+Агітіторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Агітаторка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Агітаторки 
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Агітаторку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Агітаторкою
+      suffix: к
+Адресантка:
+  singular: 
+    genitive:
+      flexion: и
+      spelling: Адресантки 
+      suffix: к
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Адресанток
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Адресанток
+      suffix: к
+Агентка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Агентка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Агентки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Агентці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Агентку 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Агенткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Агентці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Агентки 
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Агенток
+      suffix: к
+Адвокатеса:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Адвокатеса
+      suffix: ес
+    genitive:
+      flexion: и
+      spelling: Адвокатеси 
+      suffix: ес
+    dative:
+      flexion: і
+      spelling: Адвокатесі
+      suffix: ес
+    locative:
+      flexion: і
+      spelling: Адвокатесі
+      suffix: ес
+Адвокатка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Адвокатка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Адвокатки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Адвокатці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Адвокатку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Адвокаткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Адвокатці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Адвокатки
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Адвокаткам
+      suffix: к
+Адміністраторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Адміністраторка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Адміністраторки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Адміністраторці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Адміністраторку 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Адміністраторкою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Адміністраторці 
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Адміністраторки
+      suffix: к
+Акушерка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Акушерка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Акушерки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Акушерці 
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Акушерку 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Акушеркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Акушерці 
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Акушерки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Акушерок
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Акушеркам
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Акушерок
+      suffix: к
+Апаратниця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Апаратниця 
+      suffix: иц
+    accusative: 
+      flexion: ю
+      spelling: Апаратницю
+      suffix: иц
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Апаратниць
+      suffix: иц
+Аптекарка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Аптекарка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Аптекарки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Аптекарці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Аптекарку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Аптекаркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Аптекарці
+      suffix: ц
+Артистка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Артистка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Артистки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Артистці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Артистку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Артисткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Артистці
+      suffix: ц
+Архітекторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Архітекторка 
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Архітекторку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Архітекторкою
+      suffix: к
+Асистентка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Асистентка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Аасистентки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Асистентці
+      suffix: ц
+    accusative: 
+      flexion: ою
+      spelling: Асистенткою
+      suffix: к
+    vocative:
+      flexion: 
+      spelling: Асистентко
+      suffix: к
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Асистенток
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Асистентка 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Асистентками 
+      suffix: к
+Астронавтка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Астронавтка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Астронавтки 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Астронавткою
+      suffix: к
+Аудиторка :
+  singular: 
+    genitive:
+      flexion: и
+      spelling: Аудиторки 
+      suffix: к
+  plural: 
+    dative:
+      flexion: ам
+      spelling: Аудиторкам 
+      suffix: к
+Барменка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Барменка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Барменки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Барменці 
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Барменку 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Барменкою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Барменці 
+      suffix: ц
+  plural: 
+    dative:
+      flexion: ам
+      spelling: Барменкам 
+      suffix: к
+Бібліотекарка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Бібліотекарка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Бібліотекарки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Бібліотекарці 
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Бібліотекарку 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Бібліотекаркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Бібліотекарці 
+      suffix: ц
+    vocative:
+      flexion: о
+      spelling: Бібліотекарко
+      suffix: к
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Бібліотекарки 
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Бібліотекарок 
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Бібліотекарок 
+      suffix: к
+    locative:
+      flexion: ах
+      spelling: Бібліотекарках 
+      suffix: к
+Білетерка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Білетерка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Білетерки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Білетерці 
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Білетерку 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Білетеркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Білетерці 
+      suffix: ц
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Білетерок 
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Білетерок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Білетерками 
+      suffix: к
+Борчиня:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Борчиня 
+      suffix: ин
+    genitive:
+      flexion: і
+      spelling: борчині 
+      suffix: ин 
+    dative:
+      flexion: і
+      spelling: Борчині 
+      suffix: ин 
+    accusative: 
+      flexion: ю
+      spelling: Борчиню 
+      suffix: ин
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Борчинь
+      suffix: ин
+Боксерка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Боксерка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Боксерки 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Боксеркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Боксерці
+      suffix: ц
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Боксерок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Боксерками 
+      suffix: к
+Бригадирка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Бригадирка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Бригадирки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Бригадирці 
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Бригадирку 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Бригадиркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Бригадирці 
+      suffix: ц
+Будівельниця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Будівельниця
+      suffix: иц
+    genitive:
+      flexion: і
+      spelling: Будіельниці
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Будівельниці 
+      suffix: иц
+  plural: 
+    instrumental: 
+      flexion: ями
+      spelling: Будівельницями 
+      suffix: иц
+Будівниця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Будівниця
+      suffix: иц
+    genitive:
+      flexion: і
+      spelling: Будівниці
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Будівниці 
+      suffix: иц
+Буфетниця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Буфетниця
+      suffix: иц
+    genitive:
+      flexion: і
+      spelling: Буфетниці
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Буфетниці
+      suffix: иц
+    accusative: 
+      flexion: ю
+      spelling: Буфетницю
+      suffix: иц
+    instrumental: 
+      flexion: ею
+      spelling: Буфетницею
+      suffix: иц
+    locative:
+      flexion: і
+      spelling: Буфетниці 
+      suffix: иц
+  plural: 
+    nominative: 
+      flexion: і
+      spelling: Буфетниці 
+      suffix: иц
+    genitive:
+      flexion: zero
+      spelling: Будетниць 
+      suffix: иц
+    instrumental: 
+      flexion: ями
+      spelling: Буфетницями 
+      suffix: иц
+Бухгалтерка :
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Бухгалтерка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Бухгалтерки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Бухгалтерці 
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Бухгалтерку 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Бухгалтеркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Бухгалтерці 
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Бухгалтерки 
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Бухгалтерок 
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Бухгалтерок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Бухгалтерками 
+      suffix: к
+Верстальниця :
+  plural: 
+    nominative: 
+      flexion: і
+      spelling: Верстальниці
+      suffix: иц
+Видавчиня:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Видавчиня
+      suffix: ин
+    genitive:
+      flexion: і
+      spelling: Видавчині
+      suffix: ин
+    dative:
+      flexion: і
+      spelling: Видавчині
+      suffix: ин
+    instrumental: 
+      flexion: ею
+      spelling: Видавчинею
+      suffix: ин
+  plural: 
+    instrumental: 
+      flexion: ями
+      spelling: Видавчинями 
+      suffix: ин
+Викладачка:
+  singular: 
+    nominative: 
+      flexion: 
+      spelling: Викладачка 
+      suffix: к
+    genitive:
+      flexion: 
+      spelling: Викладачки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Викладачці
+      suffix: ц
+    accusative: 
+      flexion: ою
+      spelling: Викладачкою
+      suffix: к
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Викладачок
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Викладачкам
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Викладачками
+      suffix: иц
+Виконавиця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Виконавиця
+      suffix: иц
+    genitive:
+      flexion: і
+      spelling: Виконавиці
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Виконавиці 
+      suffix: иц
+    accusative: 
+      flexion: ю
+      spelling: Виконавицю
+      suffix: иц
+    instrumental: 
+      flexion: ею
+      spelling: Виконавицею
+      suffix: иц
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Виконавиць
+      suffix: иц
+Випускниця:
+  singular: 
+    nominative: 
+      flexion: 
+      spelling: Випускниця
+      suffix: иц
+    genitive:
+      flexion: і
+      spelling: Випускниці 
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Випускниці
+      suffix: иц
+    accusative: 
+      flexion: ю
+      spelling: Випускницю
+      suffix: иц
+    instrumental: 
+      flexion: ею
+      spelling: Випускницею
+      suffix: иц
+  plural: 
+    nominative: 
+      flexion: і
+      spelling: Випускниці
+      suffix: иц
+    genitive:
+      flexion: zero
+      spelling: Випускниць
+      suffix: иц
+    dative:
+      flexion: ям
+      spelling: Випускницями
+      suffix: иц
+    instrumental: 
+      flexion: ями
+      spelling: Випскницями
+      suffix: к
+Вихователька:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Вихователька
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Виховательки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Виховательці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Виховательку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Вихователькою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Виховательці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Виховательки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Виховательок 
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Вихователькам
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Виховательок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Виховательками
+      suffix: к
+Візажистка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Візажистка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Візажистки 
+      suffix: к
+Водійка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Водійка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Водійки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Водійці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Водійку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Водійкою
+      suffix: к
+Водолазка:
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Водолазки 
+      suffix: к
+Волонтерка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Волонтерка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Волонтерки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Волонтерці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Волонтерку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Волонтеркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Волонтерці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Волонтерки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Волонтерок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Волонтерками
+      suffix: к
+Вчителька:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Вчителька
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Вчительки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Вчительці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Вчительку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Вчителькою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Вчительці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Вчительки
+      suffix: к
+Гітаристка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Гітаристка 
+      suffix: к
+    genitive:
+      flexion: и 
+      spelling: Гітаристки
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Гітаристку 
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Гітаристкою
+      suffix: к
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Гітаристки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Гітаристок 
+      suffix: к
+Гонщиця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Гонщиця
+      suffix: иц
+    genitive:
+      flexion: і
+      spelling: Гонщиці
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Гонщиці
+      suffix: иц
+    instrumental: 
+      flexion: ею
+      spelling: Гонщицею
+      suffix: иц
+Декораторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Декораторка
+      suffix: к
+Депутатка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Депутатка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Депутатки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Депутатці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Дупутатку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Депутаткою 
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Депутатці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Депутатки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Депутаток 
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Депутаток 
+      suffix: к
+Діячка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Діячка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Діячки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Діячці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Діячку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Діячкою
+      suffix: к
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Діячок 
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Діячок 
+      suffix: к
+Дизайнерка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Дизайнерка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Дизайнерки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Дизайнерці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Дизайнерку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Дизайнеркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Дизайнерці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Дизайнерки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Дизайнерок 
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Дизайнеркам
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Дизайнерок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Дизайнерками
+      suffix: к
+Дикторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Дикторка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Дикторки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Дикторці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Дикторку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Дикторкою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Дикторці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Дикторки 
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Дикторок 
+      suffix: к
+Дилерка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Дилерка
+      suffix: к
+Дипломатка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Дипломатка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Дипломатки
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Дипломатку
+      suffix: к
+Дипломантка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Дипломантка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Дипломантки
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Дипломанткою
+      suffix: к
+Директорка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Директорка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Директорки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Директорці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Директорку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Директоркою
+      suffix: к
+Диригентка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Диригентка
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Диригентку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Диригенткою
+      suffix: к
+Диспетчерка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Диспетчерка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Диспетчерки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Диспетчерці
+      suffix: ц
+    instrumental: 
+      flexion: ою
+      spelling: Диспетчеркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Диспетчерці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Диспетчерки 
+      suffix: к
+    dative:
+      flexion: ам 
+      spelling: Диспетчеркам
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Диспетчерками
+      suffix: к
+Документалістка:
+  singular: 
+    dative:
+      flexion: і
+      spelling: Документалістці
+      suffix: ц
+    locative:
+      flexion: і
+      spelling: Документалістці
+      suffix: ц
+Дослідниця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Дослідниця
+      suffix: иц
+    genitive:
+      flexion: і 
+      spelling: Дослідниці 
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Дослідниці
+      suffix: иц
+    accusative: 
+      flexion: ю
+      spelling: Дослідницю
+      suffix: иц
+    instrumental: 
+      flexion: ею
+      spelling: Дослідницею
+      suffix: иц
+    locative:
+      flexion: і
+      spelling: Дослідниці
+      suffix: иц
+    vocative:
+      flexion: е
+      spelling: Досліднице
+      suffix: иц
+  plural: 
+    instrumental: 
+      flexion: ями
+      spelling: Дослідницями
+      suffix: иц
+Доцентка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Доцентка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Доцентки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Доцентці
+      suffix: ц
+    locative:
+      flexion: і
+      spelling: Доцентці
+      suffix: ц
+Доярка:
+  singular: 
+    nominative: 
+      flexion: а 
+      spelling: Доярка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Доярки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Доярцці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Доярку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Дояркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Доярці
+      suffix: ц
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Доярок 
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Дояркам
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Доярок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Доярками
+      suffix: к
+Дресирувальниця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Дресирувальниця
+      suffix: иц
+    genitive:
+      flexion: і
+      spelling: Дресирувальниці
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Дресирувальниці
+      suffix: иц
+    instrumental: 
+      flexion: ею
+      spelling: Дресирувальницею
+      suffix: иц
+Експертка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Експертка
+      suffix: к
+    genitive:
+      flexion: и 
+      spelling: Експертки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Експертці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: експертку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Експерткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Експертці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Експертки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Експерток
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Експрткам
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Експерток 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Експертками
+      suffix: к
+Економістка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Економістка
+      suffix: к
+    genitive:
+      flexion: и 
+      spelling: Економістки
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Економісткою
+      suffix: к
+Журналістка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Журналістка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Журналістки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Журналістці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Журналістку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: журналісткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Журналістці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Журналістки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Журналісток 
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Журналісткам
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Журналісток 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Журналістками
+      suffix: к
+Завідувачка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Завідувачка
+      suffix: к
+    genitive:
+      flexion: и 
+      spelling: Завідувачки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Завідувачці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Завідувачку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Завідувачкою 
+      suffix: к
+Заступниця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Заступниця
+      suffix: иц
+    genitive:
+      flexion: і
+      spelling: Заступниці
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Заступниці
+      suffix: иц
+    accusative: 
+      flexion: ю
+      spelling: Заступницю
+      suffix: иц
+    instrumental: 
+      flexion: ею
+      spelling: Заступницею
+      suffix: иц
+    locative:
+      flexion: і
+      spelling: Заступниці
+      suffix: иц
+    vocative:
+      flexion: е
+      spelling: Заступнице
+      suffix: иц
+  plural: 
+    dative:
+      flexion: ям
+      spelling: Заступницям
+      suffix: иц
+    instrumental: 
+      flexion: ями
+      spelling: Заступницями
+      suffix: иц
+Засновниця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Засновниця
+      suffix: иц
+    genitive:
+      flexion: і
+      spelling: Засновниці
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Засновниці
+      suffix: иц
+    instrumental: 
+      flexion: ею
+      spelling: Засновницею
+      suffix: иц
+    locative:
+      flexion: і
+      spelling: Заступниці
+      suffix: иц
+  plural: 
+    instrumental: 
+      flexion: ями
+      spelling: Засновницями
+      suffix: иц
+Знахарка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Знахарка
+      suffix: к
+    genitive:
+      flexion: и 
+      spelling: Знахарки
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Знахарку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Знахаркою
+      suffix: к
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Знахарки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Знахарок 
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Знахаркам
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Знахарок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Знахарками
+      suffix: к
+    locative:
+      flexion: ах
+      spelling: Знахарках
+      suffix: к
+Ілюзіоністка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Ілюзіоністка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Ілюзіоністки
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Ілюзіоністку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Ілюзіоністкою
+      suffix: к
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Ілюзіоністки
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Ілюзіоністками
+      suffix: к
+Імітаторка:
+  singular: 
+    instrumental: 
+      flexion: ою
+      spelling: Імітаторкою
+      suffix: к
+Ініціаторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Ініціаторка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Ініціаторки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Ініціаторці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Ініціаторку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Ініціаторкою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Ініціаторці
+      suffix: ц
+  plural: 
+    instrumental: 
+      flexion: ами
+      spelling: Ініціаторкми
+      suffix: к
+Інженерка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Інженерка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Інженерки
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Інженеркою
+      suffix: к
+Інспекторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Інспекторка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Інспекторки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Інспекторці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Інспекторку
+      suffix: к
+Інструкторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Інструкторка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Інструкторки 
+      suffix: к
+    accusative: 
+      flexion: у 
+      spelling: Інструкторку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Інструкторкою
+      suffix: к
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Інструкторок 
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Інструкторок 
+      suffix: к
+Історикиня:
+  singular:
+    nominative: 
+      flexion: я
+      spelling: Історикиня
+      suffix: ин
+    instrumental:
+      flexion: ею
+      spelling: Істориконею
+      suffix: ин
+Кандидатка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Кандидатка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Кандидатки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Кандидатці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Кандидатку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Кандидаткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Кандидатці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Кандидатки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Кандидаток 
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Кандидаткам
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Кандидаток
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Кандидатками
+      suffix: к
+Касирка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Касирка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Касирки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Касирці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Касирку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Касиркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Касирці
+      suffix: ц
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Касирок 
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Касиркам
+      suffix: к
+Керівниця:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Керівниця
+      suffix: иц
+    genitive:
+      flexion: і
+      spelling: Керівниці
+      suffix: иц
+    dative:
+      flexion: і
+      spelling: Керівниці
+      suffix: иц
+    accusative: 
+      flexion: ю
+      spelling: Керівницю
+      suffix: иц
+    instrumental: 
+      flexion: ею
+      spelling: Керівницею
+      suffix: иц
+    locative:
+      flexion: і
+      spelling: Керівниці
+      suffix: иц
+  plural: 
+    nominative: 
+      flexion: і
+      spelling: Керівниці
+      suffix: иц
+    genitive:
+      flexion: zero
+      spelling: Керівниць 
+      suffix: иц
+    instrumental: 
+      flexion: ями
+      spelling: Керівницями
+      suffix: иц
+Кіоскерка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Кіоскерка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Кіоскерки
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Кіоскерку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Кіоскеркою
+      suffix: к
+Клоунеса:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Клоунеса
+      suffix: ес
+    genitive:
+      flexion: и
+      spelling: Клоунеси 
+      suffix: ес
+    accusative: 
+      flexion: у
+      spelling: Клоунесу
+      suffix: ес
+    instrumental: 
+      flexion: ою
+      spelling: Клоунесою
+      suffix: ес
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Клоунес
+      suffix: ес
+Командирка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Командирка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Командирки
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Командирку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Командиркою
+      suffix: к
+Комендантка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Комендантка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Комендантки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Комендантці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Комендантку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Коменданткою
+      suffix: к
+Коментаторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Коментаторка
+      suffix: к
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Коментаторок 
+      suffix: к
+Компаньйонка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Компаньйонка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Компаньйонки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Компаньйонці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Компаньйонку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Компаньйонкою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Компаньйонці
+      suffix: ц
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Компаньйонок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Компаньйонками
+      suffix: к
+Композиторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Композиторка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Композиторки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Композиторці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Композиторку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Композиторкою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Композиторці
+      suffix: ц
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Композиторок 
+      suffix: к
+Кондукторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Кондукторка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Кондукторки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Кондукторці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Кондукторку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Кондукторкою
+      suffix: к
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Кондукторок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Кондукторками
+      suffix: к
+Консультантка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Консультантка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Консультантки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Консультантці
+      suffix: ц
+Консьєржка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Консьєржка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Консьєржки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Консьєржці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Консьєржку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Консьєржкою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Консєржці
+      suffix: ц
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Консьєржок 
+      suffix: к
+Контролерка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Контролерка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Контролерки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Контролерці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Контролерку
+      suffix: к
+  plural: 
+    genitive:
+      flexion: zero
+      spelling: Контролерок 
+      suffix: к
+Коректорка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Коректорка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Коректорки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Коректорці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Коректорку
+      suffix: к
+Кореспондентка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Кореспондетка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Кореспондентки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Кореспондентці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Кореспондентку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Кореспонденткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Кореспондентці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Кореспондентки 
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Кореспонденток 
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Кореспонденток 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Кореспондентками
+      suffix: к
+Космонавтка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Космонавтка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Космонавтки
+      suffix: к
+    accusative: 
+      flexion: у
+      spelling: Космонавтку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Космонавткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Космонавтці
+      suffix: ц
+  plural: 
+    instrumental: 
+      flexion: ами
+      spelling: Космонавтками
+      suffix: к
+Кравчиня:
+  singular: 
+    nominative: 
+      flexion: я
+      spelling: Кравчиня
+      suffix: ин
+    genitive:
+      flexion: і
+      spelling: Кравчині
+      suffix: ин
+    dative:
+      flexion: і
+      spelling: Кравчині
+      suffix: ин
+    accusative: 
+      flexion: ю
+      spelling: Кравчиню
+      suffix: ин
+    instrumental: 
+      flexion: ею
+      spelling: Кравчинею
+      suffix: ин
+    locative:
+      flexion: і
+      spelling: Кравчині
+      suffix: ин
+  plural: 
+    nominative: 
+      flexion: і
+      spelling: Кравчині
+      suffix: ин
+    genitive:
+      flexion: zero
+      spelling: Кравчинь
+      suffix: ин
+    dative:
+      flexion: ям
+      spelling: Кравчиням
+      suffix: ин
+    accusative: 
+      flexion: zero
+      spelling: Кравчинь
+      suffix: ин
+    instrumental: 
+      flexion: ями
+      spelling: Кравчинями
+      suffix: ин
+Креслярка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Креслярка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Креслярки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Креслярці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Креслярку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Кресляркою
+      suffix: к
+Курсантка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Курсантка
+      suffix: н
+    genitive:
+      flexion: и
+      spelling: Курсантки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Курсантці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Курсантку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Курсанткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Курсантці
+      suffix: ц
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Курсантки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Курсанток 
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Курсанткам
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Курсанток 
+      suffix: к
+Лаборантка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Лаборантка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Лаборантки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Лаборантці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Лаборантку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Лаборанткою
+      suffix: к
+  plural: 
+    nominative: 
+      flexion: и
+      spelling: Лаборантки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Лаборанток 
+      suffix: к
+    accusative: 
+      flexion: zero
+      spelling: Лаборанток 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Лаборантками
+      suffix: к
+Лауреатка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Лауреатка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Лауреатки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Лауреатці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Лауреатку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Лауреаткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Лауреатці
+      suffix: ц
+Лікарка:
+  singular: 
+    nominative: 
+      flexion: а 
+      spelling: Лікарка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Лікарки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Лікарці
+      suffix: ц
+    accusative: 
+      flexion: у
+      spelling: Лікарку
+      suffix: к
+    instrumental: 
+      flexion: ою
+      spelling: Лікаркою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Лікарці
+      suffix: ц
+  plural: 
+    nominative: 
+    genitive:
+      flexion: zero
+      spelling: Лікарок 
+      suffix: к
+    instrumental: 
+      flexion: ами
+      spelling: Лікарками
+      suffix: к
+Ліквідаторка:
+  singular: 
+    nominative: 
+      flexion: а
+      spelling: Ліквідаторка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Ліквідаторки
+      suffix: к

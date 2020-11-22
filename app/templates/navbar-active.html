@@ -1,0 +1,7 @@
+{% macro get_navbar_active_class(href) %}
+{% if url_for(request.endpoint)==href%}
+active text-primary
+{% else %}
+text-secondary
+{% endif %}
+{% endmacro %}

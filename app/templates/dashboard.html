@@ -1,0 +1,38 @@
+{% extends "hero.html" %}
+
+{% block content %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+{% for name, board in dashboard.items() %}
+
+{% if 'chart' in board %}
+<canvas id="{{name.replace(' ','')}}"></canvas>
+<script>
+    var ctx = document.getElementById("{{name.replace(' ','')}}").getContext('2d');
+    var chart = new Chart(ctx, JSON.parse('{{ board["chart"]|safe }}'));
+</script> 
+{% endif %}
+{% if 'table' in board %}
+<table class="table text-white">
+    <thead>
+      <tr>
+        {% for th in board['table'][0] %}
+        <th>{{th}}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+        {% for tr in board['table'][1:] %}
+        <tr>
+          <th>{{tr[0]}}</th>
+          {% for td in tr[1:] %}
+          <td>{{td}}</td>
+          {% endfor %}
+        </tr>         
+        {% endfor %}
+    </tbody>
+  </table>
+{% endif %}
+
+{% endfor %}
+
+{% endblock %}

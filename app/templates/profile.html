@@ -1,0 +1,11 @@
+{% extends "hero.html" %}
+
+{% block content %}
+<div class="d-flex justify-content-center h-100">
+  <div class="d-flex align-items-center">
+    <h1 class="title text-white-50">
+      Welcome, {{ current_user.name }}!
+    </h1>
+  </div> 
+</div>
+{% endblock %}

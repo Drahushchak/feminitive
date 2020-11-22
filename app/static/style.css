@@ -1,0 +1,32 @@
+html, body {
+    
+}
+  
+.navbar-link{
+    padding-left:30px;
+}
+
+input.submit-btn{
+    /* "to left" / "to right" - affects initial color */
+    background: linear-gradient(to left, #eeeeee 50%, #28a745 50%) right;
+    background-size: 200%;
+    transition: .5s ease-out;
+    border: 0px
+}
+
+input.submit-btn:hover{
+    background-position: left;
+}
+
+div.under-main{
+    padding-top: 72px;
+}
+
+div.source.card{
+    margin: 0px 20px 0px 0px
+}
+
+
+input.source-checkbox:checked+label.source.card{
+    background-color: #28a745
+}
