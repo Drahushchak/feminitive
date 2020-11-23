@@ -47,7 +47,7 @@ class Word(db.Model):
 
 class GrammaticalCase(db.Model):
     id                      = db.Column(db.Integer, primary_key=True)
-    number                  = db.Column(db.Enum('singular', 'plural'))
+    number                  = db.Column(db.Enum('singular', 'plural', name='number'))
     word_form_id            = db.Column(db.Integer, db.ForeignKey('word.id'), nullable=False)
     nominative_id           = db.Column(db.Integer, db.ForeignKey('word_form.id'), unique=True)
     genitive_id             = db.Column(db.Integer, db.ForeignKey('word_form.id'), unique=True)
