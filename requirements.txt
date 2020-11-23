@@ -5,3 +5,4 @@ flask-login
 PyYAML
 WTForms
 gunicorn
+psycopg2
