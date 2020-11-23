@@ -27,3 +27,5 @@ htmlcov/
 .coverage
 .coverage.*
 *,cover
+
+migrations
