@@ -1,0 +1,112 @@
+Авторка:
+  root: Автор
+  singular:
+    nominative:
+      flexion: а
+      spelling: Авторка
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Авторки
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Авторці
+      suffix: ц
+    accusative:
+      flexion: у
+      spelling: Авторку
+      suffix: к
+    instrumental:
+      flexion: ою
+      spelling: Авторкою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Авторці
+      suffix: ц
+    vocative:
+      flexion: о
+      spelling: Авторко
+      suffix: к
+  plural:
+    nominative:
+      flexion: и
+      spelling: Авторки
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Авторкам
+      suffix: ц
+    instrumental:
+      flexion: ами
+      spelling: Авторками
+      suffix: к
+    locative:
+      flexion: ах
+      spelling: Авторках
+      suffix: к
+    vocative:
+      flexion: и
+      spelling: Авторки
+      suffix: к
+Абонентка:
+  root: Абонент
+  singular:
+    nominative:
+      flexion: а
+      spelling: Абонентка 
+      suffix: к
+    genitive:
+      flexion: и
+      spelling: Абонентки 
+      suffix: к
+    dative:
+      flexion: і
+      spelling: Абонентці
+      suffix: ц
+    accusative:
+      flexion: у
+      spelling: Абонентку
+      suffix: к
+    instrumental:
+      flexion: ою
+      spelling: Абоненткою
+      suffix: к
+    locative:
+      flexion: і
+      spelling: Абонентці
+      suffix: ц
+    vocative:
+      flexion: о
+      spelling: Абонентко
+      suffix: к
+  plural:
+    nominative:
+      flexion: и
+      spelling: Абонентки
+      suffix: к
+    genitive:
+      flexion: zero
+      spelling: Абоненток
+      suffix: к
+    dative:
+      flexion: ам
+      spelling: Абоненткам
+      suffix: к
+    accusative:
+      flexion: zero
+      spelling: Абоненток
+      suffix: к
+    instrumental:
+      flexion: ами
+      spelling: Абонентками
+      suffix: к
+    locative:
+      flexion: ах
+      spelling: Абонентках
+      suffix: к
+    vocative:
+      flexion: и
+      spelling: Абонентки
+      suffix: к

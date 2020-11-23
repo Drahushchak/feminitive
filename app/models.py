@@ -36,6 +36,7 @@ class Source(db.Model):
 class Word(db.Model):
     id                  = db.Column(db.Integer, primary_key=True)
     spelling            = db.Column(db.String(1000))
+    root                = db.Column(db.String(1000), nullable=False)
     source_id           = db.Column(db.Integer, db.ForeignKey('source.id'), nullable=False)
     grammatical_cases   = db.relationship('GrammaticalCase', backref='word', lazy=True, cascade="all, delete")
     

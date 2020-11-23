@@ -25,13 +25,12 @@ def is_valid_data(data: dict) -> bool:
     if not isinstance(data, dict): raise Exception(data)
     for word, word_value in data.items():
         if not isinstance(word, str): raise Exception(word)
+        if 'root' not in word_value and not word_value.get('root'): raise Exception(word_value)
         if word_value:
             if not isinstance(word_value, dict): raise Exception(word_value)
             for number, number_value in word_value.items():
                 if not isinstance(number, str): raise Exception(number)
-                if number not in ('singular', 'plural'): raise Exception()
-                if number_value:
-                    if not isinstance(number_value, dict): raise Exception(number_value)
+                if number in ('singular','plural') and number_value:
                     for gramatical_case, gramatical_case_value in number_value.items():
                         if not isinstance(number, str): raise Exception(number)
                         if gramatical_case not in ('nominative', 'genitive', 'dative', 'accusative', 'instrumental', 'locative', 'vocative'): raise Exception(gramatical_case)
@@ -46,7 +45,8 @@ def upsert_data(user: User, name: str, data: dict) -> bool:
         user_id=user.id, 
         words=[
             Word(
-                spelling=word_form_spelling,
+                root=word_value['root'],
+                spelling=word_spelling,
                 grammatical_cases=[
                     GrammaticalCase(
                         number=number,
@@ -56,12 +56,12 @@ def upsert_data(user: User, name: str, data: dict) -> bool:
                             if grammatical_case_value
                         }
                     )
-                    for number, number_value in word_form_value.items()
+                    for number, number_value in word_value.items() if number in ('singular', 'plural')
                     if number_value
                 ]
             )
-            for word_form_spelling, word_form_value in data.items()
-            if word_form_value
+            for word_spelling, word_value in data.items()
+            if word_value
         ]
     )
     db.session.add(source)
@@ -114,6 +114,13 @@ def wordform_counter_chart(sources, word_part, number=None, name="Suffix Count")
             },
             "tooltips": {
                 "intersect": False
+            },
+            "scales": {
+                "yAxes": [{
+                    "ticks": {
+                        "beginAtZero": True
+                    }
+                }]
             }
         }
     })
