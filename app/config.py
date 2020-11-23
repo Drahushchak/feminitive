@@ -1,5 +1,7 @@
+import os
+
 SECRET_KEY = 'fb375111-73c9-4968-b28a-f80695c9c2de'
-SQLALCHEMY_DATABASE_URI = 'sqlite:///db.sqlite'
+SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL')
 SQLALCHEMY_TRACK_MODIFICATIONS = False
 UPLOAD_FOLDER = 'uploads'
 ALLOWED_EXTENSIONS = {'json','yaml'}
