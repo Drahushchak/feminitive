@@ -11356,65 +11356,6 @@
       suffix: иц
     genitive:
       flexion: і
-      spelling: Робітниці
-      suffix: иц
-    dative:
-      flexion: і
-      spelling: Робітниці
-      suffix: иц
-    accusative:
-      flexion: ю
-      spelling: Робітницю
-      suffix: иц
-    instrumental:
-      flexion: ею
-      spelling: Робітницею
-      suffix: иц
-    locative:
-      flexion: і
-      spelling: Робітниці
-      suffix: иц
-    vocative:
-      flexion: е
-      spelling: Робітнице
-      suffix: иц
-  plural:
-    nominative:
-      flexion: і
-      spelling: Робітниці
-      suffix: иц
-    genitive:
-      flexion: zero
-      spelling: Робітниць
-      suffix: иц
-    dative:
-      flexion: і
-      spelling: Робітниці
-      suffix: иц
-    accusative:
-      flexion: zero
-      spelling: Робітниць
-      suffix: иц
-    instrumental:
-      flexion: ями
-      spelling: Робітницями
-      suffix: иц
-    locative:
-      flexion: ях
-      spelling: Робітницях
-      suffix: иц
-    vocative:
-      flexion: і
-      spelling: Робітниці
-      suffix: иц
-Рятувальниця:
-  singular:
-    nominative:
-      flexion: я
-      spelling: Рятувальниця
-      suffix: иц
-    genitive:
-      flexion: і
       spelling: Рятувальниці
       suffix: иц
     dative:
