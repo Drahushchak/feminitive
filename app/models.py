@@ -1,6 +1,8 @@
 from flask_login import UserMixin
 from app import db
 from collections import Counter
+from sqlalchemy.dialects import postgresql
+from typing import List
 
 def recalcultate(mapper, connection, target):
     pass
@@ -36,12 +38,15 @@ class Source(db.Model):
 class Word(db.Model):
     id                  = db.Column(db.Integer, primary_key=True)
     spelling            = db.Column(db.String(1000))
-    root                = db.Column(db.String(1000), nullable=False)
+    root                = db.Column(postgresql.ARRAY(db.String(1000)), nullable=False)
     source_id           = db.Column(db.Integer, db.ForeignKey('source.id'), nullable=False)
     grammatical_cases   = db.relationship('GrammaticalCase', backref='word', lazy=True, cascade="all, delete")
     
     def __str__(self):
         return self.spelling
+
+    def get_joined_roots(self, join_string: str=str()):
+        return join_string.join(self.root)
 
     def wordform_counter(self, word_part:str, number=None):
         return sum([case.wordform_counter(word_part) for case in self.grammatical_cases if not number or number==case.number], Counter())
@@ -68,15 +73,10 @@ class GrammaticalCase(db.Model):
     def __str__(self):
         return self.number
 
-    def wordform_counter(self, word_part:str,):
+    def wordform_counter(self, word_part:str, include:List[str]=['nominative']):
         return Counter(filter(None,[
-            getattr(self.nominative, word_part, None),
-            getattr(self.genitive, word_part, None),
-            getattr(self.dative, word_part, None),
-            getattr(self.accusative, word_part, None),
-            getattr(self.instrumental, word_part, None),
-            getattr(self.locative, word_part, None),
-            getattr(self.vocative, word_part, None)
+            getattr(getattr(self, case, None), word_part, None)
+            for case in include
         ]))
 
 class WordForm(db.Model):

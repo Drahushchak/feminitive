@@ -29,3 +29,5 @@ htmlcov/
 *,cover
 
 migrations
+
+local_run.py

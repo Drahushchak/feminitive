@@ -7,7 +7,7 @@ from flask_login import LoginManager
 app = Flask(__name__)
 app.config.from_object('app.config')
 
-db = SQLAlchemy()
+db:SQLAlchemy = SQLAlchemy()
 db.init_app(app)
 migrate = Migrate(app, db)
 

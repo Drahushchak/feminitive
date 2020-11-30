@@ -30,3 +30,12 @@ div.source.card{
 input.source-checkbox:checked+label.source.card{
     background-color: #28a745
 }
+
+.scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+    }
+.table {
+    display: block;
+}

@@ -12,25 +12,30 @@
 </script> 
 {% endif %}
 {% if 'table' in board %}
-<table class="table text-white">
-    <thead>
-      <tr>
-        {% for th in board['table'][0] %}
-        <th>{{th}}</th>
-        {% endfor %}
-      </tr>
-    </thead>
-    <tbody>
-        {% for tr in board['table'][1:] %}
+{% if 'header' in board['table'] %}
+  <h3 class="text-white text-center">{{board['table']['header']}}</h3>
+  {% endif %}
+<div class="table scrollbar">
+  <table class="text-white w-100">
+      <thead>
         <tr>
-          <th>{{tr[0]}}</th>
-          {% for td in tr[1:] %}
-          <td>{{td}}</td>
+          {% for th in board['table']['content'][0] %}
+          <th>{{th}}</th>
           {% endfor %}
-        </tr>         
-        {% endfor %}
-    </tbody>
-  </table>
+        </tr>
+      </thead>
+      <tbody>
+          {% for tr in board['table']['content'][1:] %}
+          <tr>
+            <th>{{tr[0]}}</th>
+            {% for td in tr[1:] %}
+            <td>{{td}}</td>
+            {% endfor %}
+          </tr>         
+          {% endfor %}
+      </tbody>
+    </table>
+</div>
 {% endif %}
 
 {% endfor %}
