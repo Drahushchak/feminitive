@@ -43,8 +43,15 @@ def login():
 @app.route('/signup', methods=['GET', 'POST'])
 def signup():
     form = RegistrationForm(request.form)
-
     if request.method == 'POST' and form.validate():
+        user_name = User.query.filter(User.name==form.name.data).first()
+        user_email = User.query.filter(User.name==form.name.data).first()
+        if user_name or user_email:
+            if user_name:
+                flash(f'User with the username {user_name.name} already exists!', 'danger')
+            elif user_email:
+                flash(f'User with the email address {user_name.name} already exists!', 'danger')
+            return render_template('signup.html', form=form)
         user = User(name=form.name.data, email=form.email.data,
                     password=generate_password_hash(form.password.data))
         db.session.add(user)
