@@ -4,11 +4,16 @@
     "theme_color": "#e83e8c",
     "background_color": "#343a40",
     "icons": [
-      {
-          "src": "/static/woman.svg",
-          "type": "image/svg",
-          "sizes": "any"
-        }
+        {
+          "src": "/static/icons/pwa-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+            "src": "/static/icons/pwa-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }  
     ],
     "start_url": "/",
     "display": "standalone",

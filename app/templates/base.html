@@ -8,7 +8,11 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <link rel="shortcut icon" href="{{ url_for('static', filename='woman.svg') }}" type="image/x-icon">
+    <link rel="icon" type="image/png" href="{{ url_for('static',  filename='/icons/favicon-16x16.png') }}" sizes="16x16">
+    <link rel="icon" type="image/png" href="{{ url_for('static',  filename='/icons/favicon-32x32.png') }}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ url_for('static',  filename='/icons/android-192x192.png') }}" sizes="192x192">
+    <link rel="apple-touch-icon" href="{{ url_for('static',  filename='/icons/apple-touch-icon-180x180.png') }}" sizes="180x180">
+    <meta name="msapplication-config" content="{{ url_for('static',  filename='/icons/browserconfig.xml') }}">
     <!-- Bootstrap CSS -->
     <link
       rel="stylesheet"

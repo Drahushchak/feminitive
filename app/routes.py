@@ -127,3 +127,8 @@ def dashboard():
     dashboard = generate_dashboard_data(sources)
 
     return render_template('dashboard.html', dashboard=dashboard)
+
+@app.route('/service-worker.js')
+def sw():
+    print('hello')
+    return app.send_static_file('service-worker.js')
